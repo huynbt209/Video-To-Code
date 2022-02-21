@@ -50,7 +50,7 @@ video.addEventListener("playing", function () {
 
 
 /**
-* Created by Văn
+
 */
 var map = getCharsMap();
 function toChars(context, width, height, rowChars) {
